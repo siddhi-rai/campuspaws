@@ -1,2 +1,2 @@
-A animal welfare application project
+An animal welfare application project
 
